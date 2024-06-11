@@ -1,0 +1,50 @@
+{
+    "secTitle": "News & Updates",
+    "dataList": [
+   
+        {
+            "id": "1",
+            "postImg": "blog-1.jpeg",
+            "postLink": "/blog-details",
+            "postDate": "15 Aug",
+            "postTitle": "72 nd Independence Day Celebrations",
+            "postExcerpt": "The tri-color was unfurled by the Chief Guest Mr. Mohammad Meeran Shahbuddin, at the school grounds.",
+            "authorLink": "/",
+            "commentLink": "/",
+            "likeLink": "/"
+        },
+        {
+            "id": "2",
+            "postImg": "blog-2.jpeg",
+            "postLink": "/blog-details",
+            "postDate": "20 Jan",
+            "postTitle": "A session on Career Guidance",
+            "postExcerpt": "An exclusive session on Career Guidance, focusing on creating awareness and expand horizons for the students.",
+            "authorLink": "/",
+            "commentLink": "/",
+            "likeLink": "/"
+        },
+        {
+            "id": "3",
+            "postImg": "blog-3.jpeg",
+            "postLink": "/blog-details",
+            "postDate": "20 Jan",
+            "postTitle": "Prestigious ISO Certificate awarded to Touheed",
+            "postExcerpt": "Alhamdulillah! – The coveted ISO Certificate – ISO 9001: 2015 has been conferred.",
+            "authorLink": "/",
+            "commentLink": "/",
+            "likeLink": "/"
+        },
+        {
+            "id": "4",
+            "postImg": "blog-4.jpeg",
+            "postLink": "/blog-details",
+            "postDate": "19 Jan",
+            "postTitle": "A workshop on ‘Basic Life Support’ at Touheed Women’s College",
+            "postExcerpt": "A workshop was held under the auspices of Touheed Women’s College of Commerce, (B.Com).",
+            "authorLink": "/",
+            "commentLink": "/",
+            "likeLink": "/"
+        }
+    ]
+}

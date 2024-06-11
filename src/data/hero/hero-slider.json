@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "backgroundImage": "silder-1.jpg",
+        "uniqClass": "slider-box slider-box1",
+        "title": "Touheed Education Trust - Gangoli",
+        "desc": "Best School In This Region Join With Us Today",
+        "btnOneLink": "course-grid",
+        "btnTwoLink": "contact"
+    },
+    {
+        "id": "2",
+        "backgroundImage": "slider-2.jpg",
+        "uniqClass": "slider-box slider-box2 text-right",
+        "title": "Welcome To Touheed Edu.22222",
+        "desc": "Best School In This Region Join With Us Today",
+        "btnOneLink": "course-grid",
+        "btnTwoLink": "contact"
+    }
+]

@@ -1,0 +1,35 @@
+{
+  "event": [
+    {
+      "id": 3,
+      "date": "15 August, 2024",
+      "date_abbreviated": "15 Aug",
+      "time": "06:00 AM",
+      "short_description": "<div class=\"blog-date text-center\">\r\n<p>&nbsp;The tri-color was unfurled by the Chief Guest Mr. Moh…",
+      "all_images": [
+        {
+          "id": 7,
+          "images": "/media/images/event/banner/5.jpg",
+          "event": 3
+        },
+        {
+          "id": 8,
+          "images": "/media/images/event/banner/5_7s3xDK1.jpg",
+          "event": 3
+        },
+        {
+          "id": 9,
+          "images": "/media/images/event/banner/5_2GnYTjc.jpg",
+          "event": 3
+        }
+      ],
+      "event_title": "72nd Independence Day Celebrations",
+      "event_desc": "<div class=\"blog-date text-center\">\r\n<p>&nbsp;The tri-color was unfurled by the Chief Guest Mr. Mohammad Meeran Shahbuddin, at the school grounds.</p>\r\n</div>",
+      "event_date": "2024-08-15T06:00:00",
+      "event_location": "Gangolli - karnataka.",
+      "event_image": "/media/images/event/thumbnail/5.jpg"
+    }
+  ],
+  "page": 1,
+  "pages": 1
+}

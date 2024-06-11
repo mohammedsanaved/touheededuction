@@ -1,0 +1,145 @@
+[
+    {
+        "id": "1",
+        "personImage": "management/Abdul-Khalique--Chairman.jpg",
+        "personName": "Abdul Khalique",
+        "personTitle": "Chairman",
+        "personOccupation" : "Business",
+        "socialLinks": {
+            "facebook": "//www.facebook.com",
+            "twitter": "//www.twitter.com",
+            "linkedin": "//www.linkedin.com",
+            "youtube": "//www.youtube.com"
+        }
+    },
+    {
+        "id": "2",
+        "personImage": "management/Mohd.-Inayatullah--Vice-chirman.jpg",
+        "personName": "Muhammed Inayatullah",
+        "personTitle": "Vice Chairman",
+        "personOccupation" : "Business",
+        "socialLinks": {
+            "facebook": "//www.facebook.com",
+            "twitter": "//www.twitter.com",
+            "linkedin": "//www.linkedin.com",
+            "youtube": "//www.youtube.com"
+        }
+    },
+    {
+        "id": "3",
+        "personImage": "management/Abdul-Hameed-Shaikhji---Treasurer.jpg",
+        "personName": "Abdul Hameed",
+        "personTitle": "Treasurer",
+        "personOccupation" : "Business",
+        "socialLinks": {
+            "facebook": "//www.facebook.com",
+            "twitter": "//www.twitter.com",
+            "linkedin": "//www.linkedin.com",
+            "youtube": "//www.youtube.com"
+        }
+    },
+    {
+        "id": "4",
+        "personImage": "management/Akhther-Ahmed-Khan--Administrator.jpg",
+        "personName": "Akhthar Ahmed Khan",
+        "personTitle": "Secretary Administrator",
+        "personOccupation" : "Retd. Govt Servant",
+        "socialLinks": {
+            "facebook": "//www.facebook.com",
+            "twitter": "//www.twitter.com",
+            "linkedin": "//www.linkedin.com",
+            "youtube": "//www.youtube.com"
+        }
+    },
+    {
+        "id": "5",
+        "personImage": "management/Imthiyaz-Ahmed-Kazi---Correspondent.jpg",
+        "personName": "Imtiyaz Ahmed Kazi",
+        "personTitle": "Correspondent",
+        "personOccupation" : "Business",
+        "socialLinks": {
+            "facebook": "//www.facebook.com",
+            "twitter": "//www.twitter.com",
+            "linkedin": "//www.linkedin.com",
+            "youtube": "//www.youtube.com"
+        }
+    },
+    {
+        "id": "6",
+        "personImage": "management/G.-Mohammed-Ameen---trustee.jpg",
+        "personName": "G. Mohammed Ameen",
+        "personTitle": "Trustee",
+        "personOccupation" : "Retd Officer LIC of India",
+        "socialLinks": {
+            "facebook": "//www.facebook.com",
+            "twitter": "//www.twitter.com",
+            "linkedin": "//www.linkedin.com",
+            "youtube": "//www.youtube.com"
+        }
+    },
+    {
+        "id": "7",
+        "personImage": "management/Mutahhir-MH-Trustee.jpg",
+        "personName": "Mutahhir MH",
+        "personTitle": "Trustee",
+        "personOccupation" : "Service",
+        "socialLinks": {
+            "facebook": "//www.facebook.com",
+            "twitter": "//www.twitter.com",
+            "linkedin": "//www.linkedin.com",
+            "youtube": "//www.youtube.com"
+        }
+    },
+    {
+        "id": "8",
+        "personImage": "management/Mohd.-Mujeeb-Sikander--Trustee.jpg",
+        "personName": "Mohd. Mujeeb Sikander",
+        "personTitle": "Joint Secretary",
+        "personOccupation" : "Business",
+        "socialLinks": {
+            "facebook": "//www.facebook.com",
+            "twitter": "//www.twitter.com",
+            "linkedin": "//www.linkedin.com",
+            "youtube": "//www.youtube.com"
+        }
+    },
+    {
+        "id": "9",
+        "personImage": "management/Wahab-Shabuddin--Trustee.jpg",
+        "personName": "Abdul Wahab Shabuddin",
+        "personTitle": "Trustee",
+        "personOccupation" : "Business",
+        "socialLinks": {
+            "facebook": "//www.facebook.com",
+            "twitter": "//www.twitter.com",
+            "linkedin": "//www.linkedin.com",
+            "youtube": "//www.youtube.com"
+        }
+    },
+    {
+        "id": "10",
+        "personImage": "management/Mohammed-Iqbal--Trustee.jpg",
+        "personName": "P M Iqbal",
+        "personTitle": "Trustee",
+        "personOccupation" : "Engineer",
+        "socialLinks": {
+            "facebook": "//www.facebook.com",
+            "twitter": "//www.twitter.com",
+            "linkedin": "//www.linkedin.com",
+            "youtube": "//www.youtube.com"
+        }
+    },
+    {
+        "id": "11",
+        "personImage": "management/Murfad-Nakhuda--Trustee.jpg",
+        "personName": "Murfad Nakhuda",
+        "personTitle": "Trustee",
+        "personOccupation" : "Service",
+        "socialLinks": {
+            "facebook": "//www.facebook.com",
+            "twitter": "//www.twitter.com",
+            "linkedin": "//www.linkedin.com",
+            "youtube": "//www.youtube.com"
+        }
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "id": "1",
+        "eventImg": "blog-1.jpeg",
+        "eventDate": "25 March",
+        "eventTitle": "72 nd Independence Day Celebrations",
+        "eventTime": "7:30pm",
+        "eventLocation": "Gangolli - karnataka.",
+        "eventdesc": "The tri-color was unfurled by the Chief Guest Mr. Mohammad Meeran Shahbuddin, at the school grounds.",
+        "eventLink": "/event-details"
+    },
+    {
+        "id": "2",
+        "eventImg": "blog-2.jpeg",
+        "eventDate": "20 Jan",
+        "eventTitle": "A session on Career Guidance.",
+        "eventTime": "7:30pm",
+        "eventLocation": "Gangolli - karnataka.",
+        "eventdesc": "An exclusive session on Career Guidance, focusing on creating awareness and expand horizons for the students.",
+        "eventLink": "/event-details"
+    },
+    {
+        "id": "3",
+        "eventImg": "blog-3.jpeg",
+        "eventDate": "20 Jan",
+        "eventTitle": "Prestigious ISO Certificate awarded to Touheed.",
+        "eventTime": "7:30pm",
+        "eventLocation": "Gangolli - karnataka.",
+        "eventdesc": "Alhamdulillah! – The coveted ISO Certificate – ISO 9001: 2015 has been conferred on our Touheed Educational Trust ®, Ganguli – for ‘Controlling & providing quality education to the students of LKG to 10th, 11th, 12th (PUC),",
+        "eventLink": "/event-details"
+    },
+    {
+        "id": "4",
+        "eventImg": "blog-4.jpeg",
+        "eventDate": "19 Jan",
+        "eventTitle": "A workshop on ‘Basic Life Support’ at Touheed Women’s College",
+        "eventTime": "7:30pm",
+        "eventLocation": "Gangolli - karnataka.",
+        "eventdesc": "A workshop was held under the auspices of Touheed Women’s College of Commerce, (B.Com).",
+        "eventLink": "/event-details"
+    }
+
+]

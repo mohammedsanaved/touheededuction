@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "personImage": "team-1.jpg",
+        "personName": "Rehana Abdul Hameed",
+        "personTitle": "Teacher",
+        "socialLinks": {
+            "facebook": "//www.facebook.com",
+            "twitter": "//www.twitter.com",
+            "linkedin": "//www.linkedin.com",
+            "youtube": "//www.youtube.com"
+        }
+    },
+    {
+        "id": "2",
+        "personImage": "team-2.jpg",
+        "personName": "Ms. Poornima",
+        "personTitle": "Teacher",
+        "socialLinks": {
+            "facebook": "//www.facebook.com",
+            "twitter": "//www.twitter.com",
+            "linkedin": "//www.linkedin.com",
+            "youtube": "//www.youtube.com"
+        }
+    },
+    {
+        "id": "3",
+        "personImage": "team-3.jpg",
+        "personName": "Ms. Zeeba Mehreen",
+        "personTitle": "Teacher",
+        "socialLinks": {
+            "facebook": "//www.facebook.com",
+            "twitter": "//www.twitter.com",
+            "linkedin": "//www.linkedin.com",
+            "youtube": "//www.youtube.com"
+        }
+    },
+    {
+        "id": "4",
+        "personImage": "team-4.jpg",
+        "personName": "Mr. Fatah MH",
+        "personTitle": "Teacher",
+        "socialLinks": {
+            "facebook": "//www.facebook.com",
+            "twitter": "//www.twitter.com",
+            "linkedin": "//www.linkedin.com",
+            "youtube": "//www.youtube.com"
+        }
+    }
+]
