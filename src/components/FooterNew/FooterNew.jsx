@@ -29,11 +29,11 @@ const FooterNew = () => {
               educational institution recognized by the Govt. of Karnataka.
             </p>
             <br />
-            <div>Gangolli, udupi dist, karnataka.</div>
+            <div>Gangolli, Udupi District, Karnataka State, India</div>
             <br />
             <div>info@touheed.education</div>
             <br />
-            <div>+91 999 999 9999</div>
+            <div>08254-265151, 275251</div>
             <br />
           </div>
           <div className="quicklinks-column">
