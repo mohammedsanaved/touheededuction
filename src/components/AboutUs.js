@@ -7,6 +7,7 @@ import ModalVideo from "react-modal-video";
 import { Styles } from "./styles/aboutUs.js";
 import video from "../assets/schoolVideo.mp4";
 import GreenButton from "./GreenButton/GreenButton.jsx";
+import landingPageVideo from "../assets/landingPage.mp4";
 
 const AboutUs = () => {
   const dispatch = useDispatch();
@@ -30,10 +31,17 @@ const AboutUs = () => {
         {aboutus?.data?.map((item, i) => (
           <React.Fragment key={i}>
             <div className="about-video">
-              <video className="about-us-vid" autoPlay loop muted playsInline>
+              <video
+                className="about-us-vid"
+                autoPlay
+                loop
+                controls
+                playsInline
+              >
                 <source
                   type="video/mp4"
-                  src={`${process.env.REACT_APP_API_URL}/${item.videos}`}
+                  // src={`${process.env.REACT_APP_API_URL}/${item.videos}`}
+                  src={landingPageVideo}
                 />
               </video>
             </div>
