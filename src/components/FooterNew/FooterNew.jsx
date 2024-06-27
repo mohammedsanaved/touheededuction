@@ -96,7 +96,7 @@ const FooterNew = () => {
           <div className="footer-below-hr-text">
             Crafted by{" "}
             <a href="https://lowcosys.com/" className="fs-5 fw-bold">
-              LowCodeSys
+              locosys
             </a>
           </div>
         </div>
