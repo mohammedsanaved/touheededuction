@@ -63,6 +63,7 @@ const FooterNew = () => {
         <hr className="footer-hr" />
         <div className="footer-below-hr d-flex">
           <div className="footer-below-hr-text">Copyright @ 2024</div>
+
           <div className="footer-icons">
             <ul className="social list-unstyled list-inline">
               <li className="list-inline-item">
@@ -91,6 +92,12 @@ const FooterNew = () => {
                 </a>
               </li>
             </ul>
+          </div>
+          <div className="footer-below-hr-text">
+            Crafted by{" "}
+            <a href="https://lowcosys.com/" className="fs-5 fw-bold">
+              LowCodeSys
+            </a>
           </div>
         </div>
       </div>
