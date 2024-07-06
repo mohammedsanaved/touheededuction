@@ -72,7 +72,7 @@ const Gallery = () => {
               alt=""
             />
           </div>
-          <div className="mt-2">
+          <div className="">
             <img
               src={`${process.env.REACT_APP_API_URL}/${image06}`}
               alt=""
