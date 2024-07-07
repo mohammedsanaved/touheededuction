@@ -72,7 +72,10 @@ const Gallery = () => {
               alt=""
             />
           </div>
-          <div className="">
+          <div
+            // style={{ marginTop: "10px" }}
+            className="oneof1"
+          >
             <img
               src={`${process.env.REACT_APP_API_URL}/${image06}`}
               alt=""

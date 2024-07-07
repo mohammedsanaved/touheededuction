@@ -35,7 +35,7 @@ export const Styles = styled.div`
     gap: 10px;
     margin-top: 10px;
     aspect-ratio: 3 / 1;
-    margin-bottom: 10px;
+    // margin-bottom: 10px;
     width: 100%;
   }
 
@@ -70,6 +70,9 @@ export const Styles = styled.div`
     max-width: 100%;
     aspect-ratio: 3/2;
   }
+  .oneof1 {
+    margin-top: 7px;
+  }
 
   @media screen and (max-width: 1200px) {
     .gallery_main {
@@ -91,10 +94,16 @@ export const Styles = styled.div`
       max-width: 100%;
       width: 100%;
       height: 100%;
+      // margin-top: 10px;
     }
 
     .third-column {
       display: flex;
+    }
+  }
+  @media screen and (max-width: 767px) {
+    .oneof1 {
+      margin-top: 0px; /* Adjust as needed for mobile */
     }
   }
 `;
